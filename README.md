@@ -1,4 +1,8 @@
-# Julia Price — Portfolio
+## DEAR PROFESSOR: 
+My Netlify ran out of credits until May 2 so I have a backup portfolio here if you need it.
+https://julia-m-price.vercel.app/
+
+# Julia Price Portfolio
 
 A personal portfolio site built with React and Vite.
 
